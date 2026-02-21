@@ -1,4 +1,4 @@
-import lib.prng as prng
+from .lib import prng
 import json
 import sys
 import os
